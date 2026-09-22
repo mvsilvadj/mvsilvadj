@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=512BD4" alt="visitor badge"/>
-  <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=flat-square&color=512BD4" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=mvsilvadj&style=flat-square&color=512BD4" alt="visitor badge"/>
+  <img src="https://img.shields.io/github/followers/mvsilvadj?style=flat-square&color=512BD4" alt="followers"/>
   <img src="https://img.shields.io/badge/status-em%20constante%20aprendizado-brightgreen?style=flat-square" alt="status"/>
 </p>
 
@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvsilvadj&theme=default&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=mvsilvadj&theme=default&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">
@@ -87,10 +87,10 @@
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mvsilvadjesus@gmail.com">
+  <a href="mailto:seuemail@exemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/mvsilvadj" target="_blank">
+  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>

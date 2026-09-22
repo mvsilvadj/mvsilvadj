@@ -69,8 +69,6 @@
   <img src="https://raw.githubusercontent.com/mvsilvadj/mvsilvadj/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-> ⚙️ Essa animação precisa de uma GitHub Action configurada no seu repositório de perfil. Veja o passo a passo mais abaixo.
-
 ---
 
 ### 🏆 Troféus

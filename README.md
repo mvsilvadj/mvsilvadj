@@ -36,11 +36,11 @@
 ### 📌 Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/projeto-1">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto-1&theme=default" />
+  <a href="https://github.com/mvsilvadj/projeto-1">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=mvsilvadj&repo=projeto-1&theme=default" />
   </a>
-  <a href="https://github.com/SEU_USUARIO/projeto-2">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto-2&theme=default" />
+  <a href="https://github.com/mvsilvadj/projeto-2">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=mvsilvadj&repo=projeto-2&theme=default" />
   </a>
 </p>
 
@@ -49,16 +49,16 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mvsilvadj&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsilvadj&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mvsilvadj&theme=default&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mvsilvadj&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ### 🐍 Contribuições (animação snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/mvsilvadj/mvsilvadj/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 > ⚙️ Essa animação precisa de uma GitHub Action configurada no seu repositório de perfil. Veja o passo a passo mais abaixo.
@@ -76,7 +76,7 @@
 ### 🏆 Troféus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=flat&no-frame=true&margin-w=10&row=1" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mvsilvadj&theme=flat&no-frame=true&margin-w=10&row=1" alt="trophies"/>
 </p>
 
 ---
@@ -87,10 +87,10 @@
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:mvsilvadjesus@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/mvsilvadj" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
